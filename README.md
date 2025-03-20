@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Saksham Sharma, a integrated MTech Btech (IT) student
+I am Saksham Sharma, an integrated MTech Btech (IT) student
 
 🔭 I’m currently working on ...  full stack web development using MERN stack
 🌱 I’m currently learning ... MERN stack and DSA
